@@ -4,8 +4,6 @@
 This Power BI dashboard analyzes car sales performance for 2022 and 2023, providing insights into revenue, buyer preferences, sales trends, and regional performance. It’s designed to help stakeholders understand market dynamics in the automotive industry.
 
 ### Screenshot
-![car sales dashboard](https://github.com/user-attachments/assets/eb26b7a6-782b-470c-98fa-21927d5aaa50.png)
-
 ### Background Photo
 The dashboard features a background image of a sleek, modern luxury sedan in motion, captured from a side angle with a blurred effect to emphasize speed. The dark backdrop with a faint orange gradient at the top enhances the automotive theme without distracting from the data.
 
